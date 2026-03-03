@@ -1,4 +1,5 @@
-import { useState, useRef, useEffect, CSSProperties } from "react";
+import { useState, useRef, useEffect } from "react";
+import type { CSSProperties } from "react";
 
 const C = {
   bg: "#07111C",
